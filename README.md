@@ -54,7 +54,7 @@ https://agentverse.ai/agents/details/agent1qtc4m5jmjjmtna7mef3qaga4m5sk4z3s69zhh
 https://asi1.ai/ai/blank-agent-781
 
 ### ASI:One Shared Chat
-PENDING - Add actual shared conversation link
+https://agentverse.ai/agents/details/agent1qtc4m5jmjjmtna7mef3qaga4m5sk4z3s69zhh6jlwpvtrvqesnhys53k5dx/testing
 
 ### Demo Video
 PENDING - Add public demo video link
