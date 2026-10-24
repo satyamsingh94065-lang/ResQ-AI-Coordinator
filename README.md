@@ -38,3 +38,41 @@ This is a planning assistant, not an emergency dispatch service. Resource listin
 
 ## Limitations
 Geocoding can be ambiguous for cities with the same name. OpenStreetMap data can be incomplete or outdated; Overpass endpoints may rate-limit or fail. Verify all listed resources before relying on them. The agent does not book or dispatch emergency services.
+
+
+
+
+## Project Links
+
+### GitHub Repository
+https://github.com/satyamsingh94065-lang/ResQ-AI-Coordinator
+
+### Agentverse Profile
+https://agentverse.ai/agents/details/agent1qtc4m5jmjjmtna7mef3qaga4m5sk4z3s69zhh6jlwpvtrvqesnhys53k5dx/profile
+
+### ASI:One Agent
+https://asi1.ai/ai/blank-agent-781
+
+### ASI:One Shared Chat
+PENDING - Add actual shared conversation link
+
+### Demo Video
+PENDING - Add public demo video link
+
+## Project Links
+
+### GitHub Repository
+https://github.com/satyamsingh94065-lang/ResQ-AI-Coordinator
+
+### Agentverse Profile
+https://agentverse.ai/agents/details/agent1qtc4m5jmjjmtna7mef3qaga4m5sk4z3s69zhh6jlwpvtrvqesnhys53k5dx/profile
+
+### ASI:One Agent
+https://asi1.ai/ai/blank-agent-781
+
+### ASI:One Shared Chat
+PENDING - Add actual shared conversation link
+
+### Demo Video
+PENDING - Add public demo video link
+
